@@ -17,7 +17,7 @@ Route::get('about', 'PagesController@about');
 Route::get('flights/index', 'FlightsController@index');
 
 Route::resource('flights', 'FlightsController');
+this is cool
 
-this is rubbish
 
 
