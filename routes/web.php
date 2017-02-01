@@ -18,3 +18,6 @@ Route::get('flights/index', 'FlightsController@index');
 
 Route::resource('flights', 'FlightsController');
 
+this is rubbish
+
+
